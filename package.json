@@ -2,6 +2,7 @@
   "name": "axis",
   "version": "0.1.0",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "npm-run-all --parallel dev:frontend dev:backend",
     "dev:frontend": "next dev",
@@ -71,4 +72,3 @@
     "typescript": "^5.9.3"
   }
 }
-

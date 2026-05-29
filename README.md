@@ -82,6 +82,13 @@ Kagaz is designed to be deployed seamlessly on **Vercel**. For a complete produc
 
 ---
 
+## 📄 License
+
+This project is **UNLICENSED** and released with **all rights reserved**.
+You may not use, copy, modify, or redistribute this code without explicit written permission from the author.
+
+---
+
 ## 📈 Roadmap
 
 - [ ] Collaborative real-time editing
